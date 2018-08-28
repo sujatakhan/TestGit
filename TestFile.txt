@@ -1,1 +1,6 @@
-Git test file
+Git test file.
+
+git push -u origin master
+
+
+git push -u origin master
